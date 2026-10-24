@@ -1,11 +1,17 @@
-<!--
-  Season page. Add one file per session in this folder, starting from _templates/session.md
-  (e.g. s01-00.md, s01-01.md): the table below lists them automatically.
-  For a new season, copy this folder as season-02 and link it from the home page.
--->
+---
+titolo_breve: Stagione 1
+---
 
-# Season 1
+# Stagione 1 — Gli Eroi della Forgia
+**Livello di difficoltà: TUTORIAL**
 
-## Timeline
+Dalle spiagge dell'Isola delle Tempeste alle gallerie sotto Phandalin. Tre avventurieri raccolti per caso su una barca finiscono per riaccendere una Forgia che il mondo aveva dimenticato. 
+
+Le loro azioni cambieranno per sempre il nostro mondo.
+
+## Cronologia
 
 <!-- TIMELINE -->
+
+!!! note "Nota sulle date del gioco"
+    Le date in gioco sono state ricostruite a posteriori: all'epoca non le annotavamo.  L'attivazione della Forgia cade il **Flamerule 25, 1489 DR** — esattamente dieci anni prima dell'inizio della Stagione 2. Perché? Perché sono il Dungeon Master, ecco perché 😈
