@@ -1,12 +1,6 @@
 ---
 cover: /assets/svw.webp
 ---
-```
----
-titolo_breve: SVW
-cover: svw.webp
----
-
 # Sangtiennoi, Vaelith, Will
 
 Arrivano a Luskan senza sapere quasi nulla di quello che è successo dieci anni prima, e ci restano abbastanza a lungo da scoprirlo.
@@ -20,5 +14,3 @@ Arrivano a Luskan senza sapere quasi nulla di quello che è successo dieci anni 
 
 
 <!-- TIMELINE:SVW -->
-```
-
